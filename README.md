@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats
-![Naresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramnaresh8&show_icons=true&theme=cobalt)
+![Naresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramnaresh8&show_icons=true&theme=transparent)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ramnaresh8/)
