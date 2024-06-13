@@ -19,7 +19,7 @@ Welcome to my GitHub profile! 🌟
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind,recoil)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=docker=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mongodb)
