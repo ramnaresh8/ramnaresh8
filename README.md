@@ -4,6 +4,7 @@ Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats
 ![Naresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramnaresh8&show_icons=true&theme=cobalt)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramnaresh8)](https://github.com/ramnaresh8/github-readme-stats)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ramnaresh8/)
