@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 🌟
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,js,bash,SQLts&theme=dark)
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,bash,ts&theme=dark)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,tailwind,react,next,recoil&theme=dark)
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! 🌟
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase&theme=dark)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,githubactions,gitlab,npm&theme=dark)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,githubactions,gitlab,npm,neovim,vscode&theme=dark)
 
 
 
